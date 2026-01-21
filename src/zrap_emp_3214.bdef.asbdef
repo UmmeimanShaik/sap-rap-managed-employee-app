@@ -1,0 +1,13 @@
+managed; //implementation in class zbp_i_rap_emp_887 unique;
+//strict ( 2 );
+
+define behavior for zrap_emp_3214//alias <alias_name>
+persistent table zemp_tab_3214
+lock master
+//authorization master ( instance )
+//etag master <field_name>
+{
+  create;
+  update;
+  delete;
+}

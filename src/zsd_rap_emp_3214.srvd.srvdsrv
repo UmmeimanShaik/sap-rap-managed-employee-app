@@ -1,0 +1,4 @@
+@EndUserText.label: 'service definition'
+define service Zsd_rap_emp_3214 {
+  expose ZRAP_EMP_3214;
+}
