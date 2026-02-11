@@ -139,3 +139,6 @@ After completing this project, you will understand:
 Sri Vaishnavi Bhaskara
 
 Built as a hands-on learning project using SAP RAP.
+
+Updated by Shaik Umme Iman – 2026  
+Collaborative Team Project
