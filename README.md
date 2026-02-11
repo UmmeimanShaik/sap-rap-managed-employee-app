@@ -134,7 +134,15 @@ After completing this project, you will understand:
 
 ---
 
+
 ## Author
+
+
+Updated by Shaik Umme Iman – 2026  
+Collaborative Team Project
+
+Maintained and enhanced by Shaik Umme Iman – 2026
+Originally developed as a collaborative team project.
 
 Sri Vaishnavi Bhaskara
 
